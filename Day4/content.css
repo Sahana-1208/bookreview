@@ -1,0 +1,26 @@
+.content{
+    width:75%;
+    height:100vh;
+    position: fixed;
+    overflow-y:scroll;
+    margin-top: 10vh;
+    margin-left: 25%;
+}
+.searchbook{
+    width: 93%;
+    margin-top:0.5%;
+    margin-left: 2%;
+    height:5vh;
+    border:1px solid rgba(0,0,0,0);
+    display: inline-block;
+    border-radius: 2cm;
+    outline: none;
+}
+.searchbar{
+    width: 92%;
+    height: 7vh;
+    border:1.5px solid;
+    margin-top: 1%;
+    margin-left: 4%;
+    border-radius: 2cm;
+}
