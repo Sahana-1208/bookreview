@@ -1,0 +1,75 @@
+.bookpage{
+    width:100%;
+    position: fixed;
+    height:10vh;
+}
+.bookimgplace{
+    height: 90vh;
+    flex: auto;
+    width: 30%;
+}
+.iimagee{
+    margin:auto;
+    margin-top: 20px;
+    width:80%;
+    height:60vh;
+}
+.bookpageimg{
+    flex-direction: row;
+    height: 90vh;
+    display: flex;
+    width:100%;
+}
+.bookinformation{
+    flex: auto;
+    overflow-y: scroll;
+    height: 90vh;
+    width: 70%;
+}
+.reviewdiv{
+    height:25vh;
+    width:90%;
+}
+.review{
+    height:15vh;
+    width:90%;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.button-24 {
+  background:rgb(142, 142, 225);
+  border: 1px solid rgb(142, 142, 225) ;
+  border-radius: 6px;
+  color: black;
+  /* cursor: pointer;
+  display: inline-block; */
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  /* outline: 0; */
+  padding: 12px 14px;
+  text-align: center;
+  /* text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle; */
+}
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: rgb(142, 142, 225);
+}
+
+.button-24:active {
+  opacity: .5;
+}
+
+.reviewlist{
+    height: auto;
+}

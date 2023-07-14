@@ -1,0 +1,21 @@
+.profileouter{
+    background-color: aqua;
+    width:100%;
+    height: 90vh;
+}
+.picture{
+    background-color: blue;
+    width:100%;
+    height:30vh;
+    position:absolute;
+}
+.imagefit{
+    background-color: blueviolet;
+}
+.profileinfo{
+    background-color: rgb(43, 226, 180);
+    position:relative;
+    width:50%;
+    height:70vh;
+    margin-left: 35%;
+}

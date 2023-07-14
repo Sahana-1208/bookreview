@@ -1,0 +1,55 @@
+.regouter{
+    background-color:lavender;
+    height:100vh;
+    width:100%;
+    /* position:relative; */
+}
+.register{
+    background-color: white;
+    width:40%;
+    height:60%;
+    top:20%;
+    left:30%;
+    position:absolute;
+    border-style:solid;
+    border-radius: 7%;
+}
+table{
+    text-align: left;
+}
+th{
+    padding-top: 0.5cm;
+}
+.regcontainer {
+    position: relative;
+    text-align: center;
+    color: 'black';
+}
+.regfield{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 1cm;
+}
+.reginfield{
+    margin-left: 1cm;
+    height: 0.5cm;
+    width:100%;
+    
+}
+.regredirect{
+    text-align: center;
+}
+.regredirect:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.regsubmit{
+    width:30%;
+    text-align: center;
+    margin-top: 0.8cm;
+    border-radius: 0.5cm;
+    padding:5px 10px 5px 10px;
+    border-style:solid;
+}
+.regsubmit:hover{
+    background-color: rgb(105, 105, 159);
+}
