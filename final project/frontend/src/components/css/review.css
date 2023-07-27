@@ -1,0 +1,24 @@
+/* *{
+    padding:0;
+    margin:0;
+    text-decoration:none;
+    list-style: none;
+    box-sizing: border-box;
+} */
+.reviewusername{
+    padding:5px 10px;
+    margin:10px;
+    border-bottom: 1px solid;
+}
+.reviewouter{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width:90%;
+    min-height: 5vh;
+    background-color: rgb(156, 150, 222);
+    margin: 10px;
+}
+.reviewtextarea{
+    margin: auto;
+    min-height: 5vh;
+    width:90%;
+}
